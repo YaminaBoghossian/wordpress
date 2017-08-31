@@ -1,0 +1,16 @@
+/*Theme Name   Parallax-One 
+ Description: Parallax-One Theme
+ Author:       yaya
+ Template:     Parallax-One
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, responsive-layout, accessibility-ready
+ Text Domain:  Parallax-One-child
+
+
+https://codex.wordpress.org/fr:Themes_Enfant*/
+
+.sticky-navigation .main-navigation a {
+  color: white;
+}
